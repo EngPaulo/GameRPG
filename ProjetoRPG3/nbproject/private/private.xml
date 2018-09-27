@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="4">
+        <file>
+            <url>src/characters/Entities.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>65</line>
+                <key/>
+            </bookmark>
+            <bookmark id="3">
+                <name/>
+                <line>103</line>
+                <key/>
+            </bookmark>
+            <bookmark id="4">
+                <name/>
+                <line>216</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Java/NetBeans/FormasGeometricas/ProjetoRPG3/src/places/Room.java</file>
+            <file>file:/D:/Java/NetBeans/FormasGeometricas/ProjetoRPG3/src/characters/Entities.java</file>
+            <file>file:/D:/Java/NetBeans/FormasGeometricas/ProjetoRPG3/src/objects/Item.java</file>
+            <file>file:/D:/Java/NetBeans/FormasGeometricas/ProjetoRPG3/src/characters/players/Player.java</file>
+            <file>file:/D:/Java/NetBeans/FormasGeometricas/ProjetoRPG3/src/actions/Combat.java</file>
+            <file>file:/D:/Java/NetBeans/FormasGeometricas/ProjetoRPG3/src/objects/useless/BatWing.java</file>
+            <file>file:/D:/Java/NetBeans/FormasGeometricas/ProjetoRPG3/src/characters/enemys/Enemy.java</file>
+            <file>file:/D:/Java/NetBeans/FormasGeometricas/ProjetoRPG3/src/characters/enemys/Bat.java</file>
+        </group>
+    </open-files>
+</project-private>
